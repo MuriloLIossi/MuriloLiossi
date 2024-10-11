@@ -1,6 +1,7 @@
 Estudante da ETEC João belarmino - Desenvolvimento de Sistemas (4/6) <br/>
 Conhecimentos em C#, php, C++, Kotlin, python e T-SQL, MYSQL <br/>
 Linkedin: https://www.linkedin.com/in/murilo-iossi-2a428832b/ <br/>
+CPS Carreiras: https://cpscarreiras-csm.symplicity.com/profiles/murilo.lopes3 <br/>
 ---------------------------------------------------------------------- <br/>
 DESKTOP: <br/>
 Processador: AMD Ryzen 5 4600G (APU) <br/>
