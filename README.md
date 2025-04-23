@@ -1,28 +1,61 @@
-Estudante da ETEC João belarmino - Desenvolvimento de Sistemas (4/6) <br/>
-Conhecimentos em C#, php, C++, Kotlin, python e T-SQL, MYSQL <br/>
-Linkedin: https://www.linkedin.com/in/murilo-iossi-2a428832b/ <br/>
-CPS Carreiras: https://cpscarreiras-csm.symplicity.com/profiles/murilo.lopes3 <br/>
----------------------------------------------------------------------- <br/>
-DESKTOP: <br/>
-Processador: AMD Ryzen 5 4600G (APU) <br/>
-RAM: 16GB DDR4 <br/>
-MB: Biostar a320MH <br/>
-SSD: 480GB <br/>
-HDD: 512GB <br/>
-GPU: Radeon Vega 7 <br/>
----------------------------------------------------------------------- <br/>
-LAPTOP: <br/>
-Processador: Intel Core i5 1235u (APU) <br/>
-RAM: 12GB <br/>
-SSD: 512GB nvme <br/>
-GPU: Intel Iris Xe <br/>
----------------------------------------------------------------------- <br/>
-IDE: <br/>
-phpstorm <br/>
-visual studio <br/>
-visual studio code <br/>
-pycharm <br/>
-datagrip <br/>
-webstorm <br/>
-----------------------------------------------------------------------<br/>
+# 👨‍💻 Murilo Iossi Lopes - Estudante de Desenvolvimento de Sistemas
 
+**ETEC João Belarmino - Desenvolvimento de Sistemas (4/6)**
+
+---
+
+## 🔧 Tecnologias e Conhecimentos
+
+- **Linguagens de Programação**: C#, PHP, C++, Kotlin, Python, T-SQL, MySQL
+- **Banco de Dados**: MySQL, T-SQL
+- **Ferramentas e IDEs**: 
+  - PHPStorm
+  - Visual Studio
+  - Visual Studio Code
+  - PyCharm
+  - DataGrip
+  - WebStorm
+
+---
+
+## 🌐 Contatos
+
+- [LinkedIn](https://www.linkedin.com/in/murilo-iossi-2a428832b/)
+- [CPS Carreiras](https://cpscarreiras-csm.symplicity.com/profiles/murilo.lopes3)
+
+---
+
+## 💻 Configurações de Hardware
+
+### 🖥️ **Desktop**:
+- **Processador**: AMD Ryzen 5 4600G (APU)
+- **Memória RAM**: 16GB DDR4
+- **Placa Mãe**: Biostar a320MH
+- **Armazenamento**:
+  - SSD: 480GB
+  - HDD: 512GB
+- **Placa de Vídeo**: Radeon Vega 7
+
+---
+
+### 💻 **Laptop**:
+- **Processador**: Intel Core i5 1235u (APU)
+- **Memória RAM**: 12GB
+- **Armazenamento**:
+  - SSD: 512GB NVMe
+- **Placa de Vídeo**: Intel Iris Xe
+
+---
+
+## 🛠️ Ferramentas e IDEs
+
+- **PHPStorm**  
+- **Visual Studio**
+- **Visual Studio Code**
+- **PyCharm**
+- **DataGrip**
+- **WebStorm**
+
+---
+
+Sinta-se à vontade para entrar em contato comigo ou explorar meus projetos! 🚀
