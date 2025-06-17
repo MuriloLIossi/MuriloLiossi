@@ -1,6 +1,6 @@
 # 👨‍💻 Murilo Iossi Lopes - Estudante de Desenvolvimento de Sistemas
 
-**ETEC João Belarmino - Desenvolvimento de Sistemas (4/6)**
+**ETEC João Belarmino - Desenvolvimento de Sistemas (5/6)**
 
 ---
 
