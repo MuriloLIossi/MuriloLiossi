@@ -47,15 +47,4 @@
 
 ---
 
-## 🛠️ Ferramentas e IDEs
-
-- **PHPStorm**  
-- **Visual Studio**
-- **Visual Studio Code**
-- **PyCharm**
-- **DataGrip**
-- **WebStorm**
-
----
-
 Sinta-se à vontade para entrar em contato comigo ou explorar meus projetos! 🚀
