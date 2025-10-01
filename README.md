@@ -8,13 +8,6 @@
 
 - **Linguagens de Programação**: C#, PHP, C++, Kotlin, Python, T-SQL, MySQL
 - **Banco de Dados**: MySQL, T-SQL
-- **Ferramentas e IDEs**: 
-  - PHPStorm
-  - Visual Studio
-  - Visual Studio Code
-  - PyCharm
-  - DataGrip
-  - WebStorm
 
 ---
 
