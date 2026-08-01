@@ -1,43 +1,45 @@
-# 👨‍💻 Murilo Iossi Lopes - Estudante de Desenvolvimento de Sistemas
+# Olá, eu sou o Murilo Iossi Lopes! 👋
 
-**ETEC João Belarmino - Desenvolvimento de Sistemas (6/6)**
+**IT Infrastructure Management | Service Desk | Digital Education**
 
----
+Sou técnico formado em **Desenvolvimento de Sistemas (ETEC João Belarmino)** e atualmente graduando em **Engenharia de Software**. 
 
-## 🔧 Tecnologias e Conhecimentos
+Hoje, atuo como o principal responsável pela TI em uma organização sem fins lucrativos, gerenciando a infraestrutura, prestando suporte corporativo e atuando como instrutor de tecnologia. 
 
-- **Linguagens de Programação**: C#, PHP, C++, Kotlin, Python, T-SQL, MySQL
-- **Banco de Dados**: MySQL, T-SQL
-
----
-
-## 🌐 Contatos
-
-- [LinkedIn](https://www.linkedin.com/in/murilo-iossi-2a428832b/)
-- [CPS Carreiras](https://cpscarreiras-csm.symplicity.com/profiles/murilo.lopes3)
+Acredito que ter uma base sólida em programação e desenvolvimento de sistemas me torna um profissional de Suporte e Infraestrutura muito mais completo, estratégico e preparado para o futuro.
 
 ---
 
-## 💻 Configurações de Hardware
+## 🔧 Tecnologias e Ferramentas
 
-### 🖥️ **Desktop**:
-- **Processador**: AMD Ryzen 5 4600G (APU)
-- **Memória RAM**: 16GB DDR4
-- **Placa Mãe**: Biostar a320MH
-- **Armazenamento**:
-  - SSD: 480GB
-  - HDD: 512GB
-- **Placa de Vídeo**: Radeon Vega 7
+Gosto de explorar diferentes tecnologias para expandir minha capacidade de resolução de problemas e entender o funcionamento dos sistemas de ponta a ponta:
+
+- **Linguagens e Frameworks**: PHP (Laravel), C#, Kotlin.
+- **Banco de Dados**: MySQL, T-SQL (SQL Server).
 
 ---
 
-### 💻 **Laptop**:
-- **Processador**: Intel Core i5 1235u (APU)
-- **Memória RAM**: 12GB
-- **Armazenamento**:
-  - SSD: 512GB NVMe
-- **Placa de Vídeo**: Intel Iris Xe
+## 🖥️ Meu Setup / Homelab
+
+Como um bom profissional de infraestrutura e entusiasta de hardware, este é o ambiente onde realizo meus testes, estudos e projetos:
+
+### ⚙️ **Desktop (Workstation / Lab)**:
+- **Processador**: AMD Ryzen 5 4600G
+- **RAM**: 16GB DDR4
+- **Placa Mãe**: Biostar A320MH
+- **Armazenamento**: SSD 480GB + HDD 512GB
+- **Vídeo**: Radeon Vega 7 (Integrada)
+
+### 💻 **Laptop (Mobilidade)**:
+- **Processador**: Intel Core i5 1235U
+- **RAM**: 12GB
+- **Armazenamento**: SSD 512GB NVMe
+- **Vídeo**: Intel Iris Xe
 
 ---
 
-Sinta-se à vontade para entrar em contato comigo ou explorar meus projetos! 🚀
+## 🌐 Conecte-se comigo
+
+Sinta-se à vontade para entrar em contato para trocarmos ideias sobre suporte, infraestrutura, educação tecnológica ou desenvolvimento! 🚀
+
+- [LinkedIn](www.linkedin.com/in/murilo-iossi)
